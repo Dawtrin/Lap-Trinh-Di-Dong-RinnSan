@@ -1,0 +1,43 @@
+<!--
+     Copyright (C) 2023 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0
+-->
+<resources>
+    <string name="app_name">Cupcake</string>
+    <string name="order_cupcakes">Order Cupcakes</string>
+    <string name="order_subtitle">Handcrafted. Fresh daily.</string>
+
+    <string name="one_cupcake">1 Cupcake</string>
+    <string name="six_cupcakes">6 Cupcakes</string>
+    <string name="twelve_cupcakes">12 Cupcakes</string>
+    <string name="twenty_four_cupcakes">24 Cupcakes</string>
+
+    <string name="choose_flavor">Choose Flavor</string>
+    <string name="vanilla">Vanilla Bean</string>
+    <string name="chocolate">Dark Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Espresso</string>
+    <string name="strawberry">Strawberry Cream</string>
+    <string name="matcha">Matcha</string>
+    <string name="lemon">Lemon Citrus</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="next">Continue</string>
+    <string name="choose_pickup_date">Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Place Order</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup Date</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="order_details">Quantity: %1$s \nFlavor: %2$s \nPickup date: %3$s \nTotal: %4$s \n\nThank you!</string>
+    <string name="back_button">Back</string>
+
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>
